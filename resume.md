@@ -26,8 +26,15 @@ Python
     Python cryptography library. Wrote the HOTP/TOTP as well as CMAC
     implementation currently being used in the library among other things.
 
+:   Core developer of [tls](https://github.com/pyca/tls), a Python TLS library.
+    Efforts include writing portions of the code as well as reviewing pull
+    requests from other developers.
+
 :   Wrote [tlsenum](https://github.com/Ayrx/tlsenum), a command line tool to
     enumerate TLS cipher-suites supported by a server.
+
+:   Wrote [python-aead](https://github.com/Ayrx/python-aead), an Authenticated
+    Encryption with Associated Data (AEAD) implementation for Python.
 
 Certifications
 --------------
