@@ -4,6 +4,14 @@ Terry Chia Wei Kiang
 Working Experience
 ------------------
 
+August 2014 - October 2014
+:    *Python Developer at Nugit Inc*
+
+    Primary Python developer for Nugit, a digital analytics startup. Rewrote
+    proof-of-concept product into a production-ready, scalable application
+    processing millions of data points daily. Worked mainly with Python,
+    Flask and Redis.
+
 July 2013 - October 2013
 :   *Intern at Red Hat Inc*
 
@@ -64,4 +72,4 @@ Activities
 
 Blog
 :   Blogs semi-regularly about information security at
-    [infosecstudent.com](http://infosecstudent.com).
+    [ayrx.com](http://www.ayrx.com).
