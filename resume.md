@@ -79,4 +79,4 @@ Activities
 
 Blog
 :   Blogs semi-regularly about information security at
-    [ayrx.com](http://www.ayrx.com).
+    [ayrx.me](http://www.ayrx.me).
