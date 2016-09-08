@@ -26,15 +26,15 @@ Python
     Python cryptography library. Wrote the HOTP/TOTP as well as CMAC
     implementation currently being used in the library among other things.
 
-:   Core developer of [tls](https://github.com/pyca/tls), a Python TLS library.
-    Efforts include writing portions of the code as well as reviewing pull
-    requests from other developers.
-
 :   Wrote [tlsenum](https://github.com/Ayrx/tlsenum), a command line tool to
     enumerate TLS cipher-suites supported by a server.
 
 :   Wrote [python-aead](https://github.com/Ayrx/python-aead), an Authenticated
     Encryption with Associated Data (AEAD) implementation for Python.
+
+:   Wrote [python-fastpbkdf2](https://github.com/Ayrx/python-fastpbkdf2),
+    which are Python bindings for a PBKDF2 implementation 3 times faster than
+    the standard library implementation.
 
 Certifications
 --------------
@@ -54,6 +54,12 @@ Red Hat
 
 Education
 ---------
+
+2016 - Current
+:   *Singapore Institute of Technology*
+
+    Currently pursuing a degree in Information and Communications Technology
+    (Information Security).
 
 2011 - 2014
 :   *Temasek Polytechnic*
