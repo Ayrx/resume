@@ -66,6 +66,8 @@ Education
 
     Graduated with a diploma in Cyber & Digital Security.
 
+<div style="page-break-after: always;"></div>
+
 Honors & Awards
 ---------------
 
