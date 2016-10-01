@@ -1,11 +1,8 @@
-all: pdf
+all: docker
 
-html:
-	pandoc --standalone -c style.css --from markdown --to html -o resume.html resume.md
-
-pdf: html
-	wkhtmltopdf resume.html resume.pdf
+docker:
+	mkdir output
+	docker run -v `pwd`/output:/opt/output --rm resume
 
 clean:
-	rm -rf resume.html
-	rm -rf resume.pdf
+	rm -rf output/
