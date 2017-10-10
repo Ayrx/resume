@@ -1,8 +1,8 @@
 all: docker
 
-docker: docker-build
-	mkdir -p output
-	docker run -v `pwd`/output:/opt/output --rm resume
+docker:
+	rm -rf output && mkdir -p output
+	docker run -v `pwd`/output:/opt/output -v `pwd`:/opt/input --rm resume
 
 docker-build:
 	docker build -t resume .
